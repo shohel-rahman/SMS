@@ -1,3 +1,0 @@
-Hello to test git
-
-testing from remote
